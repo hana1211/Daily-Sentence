@@ -16,3 +16,5 @@ Daily-Sentence
 8/4  I am sorry to hear that.很遺憾。
 
 8/5  It's very dangerous.    真危險。
+
+8/6  I'll call you back later.待會回電給你。
