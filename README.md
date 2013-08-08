@@ -20,3 +20,5 @@ Daily-Sentence
 8/6  I'll call you back later.待會回電給你。
 
 8/7  I need to make a phone call.  我得打個電話。
+
+8/8  Long time no see.        好久不見。
