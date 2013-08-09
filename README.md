@@ -22,3 +22,5 @@ Daily-Sentence
 8/7  I need to make a phone call.  我得打個電話。
 
 8/8  Long time no see.        好久不見。
+
+8/9  If you need any help, just ask. 如果你需要任何幫忙，儘管開口。
