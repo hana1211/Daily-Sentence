@@ -24,3 +24,7 @@ Daily-Sentence
 8/8  Long time no see.        好久不見。
 
 8/9  If you need any help, just ask. 如果你需要任何幫忙，儘管開口。
+
+搭飛機實用英語短句篇
+=====================
+8/10 Can I put my baggage here?  我能將手提行李放在這兒嗎?
