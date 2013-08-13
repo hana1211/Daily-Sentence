@@ -28,3 +28,5 @@ Daily-Sentence
 搭飛機實用英語短句篇
 =====================
 8/10 Can I put my baggage here?  我能將手提行李放在這兒嗎?
+
+8/11 Which would you like for dinner， beef， chicken or fish？晚餐想吃牛肉、雞肉或是魚？
