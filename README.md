@@ -30,3 +30,9 @@ Daily-Sentence
 8/10 Can I put my baggage here?  我能將手提行李放在這兒嗎?
 
 8/11 Which would you like for dinner， beef， chicken or fish？晚餐想吃牛肉、雞肉或是魚？
+
+8/12 Where is my seat？  我的座位在那裡？
+
+8/13 Could you change my seat， please？是否可替我更換座位？
+
+8/14 May I have tea/coffee/juice/water? 請給我來杯.... 
