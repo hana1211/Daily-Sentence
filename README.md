@@ -35,4 +35,13 @@ Daily-Sentence
 
 8/13 Could you change my seat， please？是否可替我更換座位？
 
-8/14 May I have tea/coffee/juice/water? 請給我來杯.... 
+8/14 May I have tea/coffee/juice/water? 請給我來杯....
+
+8/15 What is the boarding gate number of this flight? 請問這個班機的登機門是幾號?
+
+8/16 Do you have an earphone? 請問有沒有耳機?
+
+8/17 I would like to have a blanket and a pillow, please. 請給我一條毯子和枕頭.
+
+8/18 Does any attendent speak Mandarin? 請問機上有沒有會說國語的空服員?
+
